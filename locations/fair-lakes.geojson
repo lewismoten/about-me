@@ -1,31 +1,7 @@
 {
-  "type": "FeatureColection",
-  "features": {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        38.863406,
-        -77.388380
-      ],
-      "properties": {
-        "type": "street address",
-        "value" : "12832 Fair Briar Ln, Fairfax, VA 22033, USA",
-        "details": {
-          "streetNumber": "12832",
-          "route": "Fair Briar Lane",
-          "locality": "Fairfax",
-          "administrativeArea": [
-            "Sully",
-            "Fairfax County",
-            "Virginia"
-          ],
-          "country": "United Sates",
-          "postalCode": "22033",
-          "postalCodeSuffix": "3853",
-          "placeId" : "ChIJt2bEy_JFtokRMa7Mt8XT05c"
-        }
-      }
-    }
-  }
+  "type": "Point",
+  "coordinates": [
+    -77.388380,
+    38.863406
+  ]
 }
